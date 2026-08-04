@@ -1,6 +1,10 @@
 ## Olá meu nome é Joyce Cabral, é um prazer tê-los aqui 👾💖
 
-### Graduação em Ciência da Computação - Universidade São Judas Tadeu desde 2021
+### 🎓 Ciência da Computação | São Judas Tadeu Campus Unimonte - 2021
+### 💡 Foco em resolução de problemas, lógica e estruturas de dados
+
+> *"Dentre as coisas certas, a mais certa é a dúvida."*  
+> — **Bertolt Brecht**
 
 <picture>
   <source
@@ -29,7 +33,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/joyc_cabral?igsh=Yml5YzltZTZ5M210" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="[https://www.instagram.com/joyc_cabral?igsh=Yml5YzltZTZ5M210](https://www.instagram.com/jy_nyxx/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "joyce.cabralvieira@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/joyce-cabral-abb014208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
